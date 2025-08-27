@@ -1,0 +1,21 @@
+{
+  "name": "india-accelerator-openxai-2025",
+  "version": "1.0.0",
+  "description": "OpenXAI Accelerator Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh11052005/India-Accelerator-OpenXAI-2025.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rakesh11052005/India-Accelerator-OpenXAI-2025/issues"
+  },
+  "homepage": "https://github.com/rakesh11052005/India-Accelerator-OpenXAI-2025#readme"
+}

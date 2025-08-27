@@ -1,0 +1,23 @@
+{
+  "name": "image-detection-app",
+  "version": "1.0.0",
+  "description": "Upload an image, get a summary and list of detected objects using Ollama vision models (e.g., llama3.2-vision)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
+
+
+
